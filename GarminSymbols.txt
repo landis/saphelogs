@@ -1,8 +1,0 @@
-# This file is used to relate Waypoint Symbols to the icon file
-# The format is     Symbol Name,Icon path
-# Note that the the Symbol Name is case sensitive. 
-# The symbol is define by the <sym> tag in GPX files (for example Garmin exported GPXfiles)
-# It the file is wrong, the icon in the KML will not be correclty displayed
-Animal Tracks,W:\Pyt\KML\Prog\Sources\dist\Sym_RedSquare.bmp
-Food Source,W:\Pyt\KML\Prog\Souces\dist\Sym_GreenCross.bmp
-Upland Game,W:\Pyt\KML\Prog\Sources\dist\Sym_AsterixBN.bmp
