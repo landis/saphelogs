@@ -1,0 +1,2 @@
+secs,date,time,t_adc,t_resistance,ext_temp_c,int_temp_c,pascals,meters,freefall,inactivity,activity,doubletap,tap,x,y,z,xG,yG,zG,mx,my,mz,heading
+2,2012/6/9,22:06:14,537.00,10839.44,23.20,28.40,101351,23.91,0,0,0,0,0,18,31,240,0.07,0.12,0.94,109.00,195.00,-239.00,60.80
