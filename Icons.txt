@@ -1,0 +1,10 @@
+Star,<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+Point,<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+Square,<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon56.png</href>
+Round,<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+Plane,<Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+Car,<Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon47.png</href>
+House,<Icon><href>http://maps.google.com/mapfiles/kml/pal3/icon56.png</href>
+Triangle,<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon60.png</href>
+Pushpin,<Icon><href>http://maps.google.com/mapfiles/kml/pal5/icon14.png</href>
+Flag,<Icon><href>http://maps.google.com/mapfiles/kml/pal5/icon13.png</href>
